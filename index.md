@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample)
+[Project 1 Title](/sample.md)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
