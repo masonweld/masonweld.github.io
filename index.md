@@ -8,7 +8,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/eight_queens/eight_queens.md)
+[Eight Queens Problem](/eight_queens/eight_queens.md)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
