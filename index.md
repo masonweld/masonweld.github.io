@@ -12,7 +12,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Sudoku Solver](/Sudoku_Solver/Sudoku_Solver.md)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
