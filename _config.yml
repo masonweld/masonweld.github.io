@@ -1,11 +1,11 @@
 title: Mason Weld # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Welcome to my page!  This is where a post some of my personal projects relating to data science and operations research.   
   <br><br>
-  Second description 
+  I am currently looking for full time employment in analytics, data science, operations research, or process improvement following my graduation in December 2020.  I recieved my BA in Computational and Applied Mathematics from Rice University in 2019.  I am expected to graduate in December of 2020 with my Masters in Industrial Engineering from Rice University with a focus on operations research and data science/analytics.  I have internship experience in data analytics, operations research, and process improvement.  Further information about my background and experience can be found on my resume or LinkedIn profile, which can be found below. 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/mason-weld-5b1817157/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-172818655-1 # your Google Analytics tracking ID here
