@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/nn_tsp/nn_tsp.md)
+[TSP](/nn_tsp/nn_tsp.md)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
