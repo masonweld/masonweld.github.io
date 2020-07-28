@@ -4,11 +4,7 @@
 
 ### Optimization Algorithms 
 
-[TSP](/nn_tsp/nn_tsp.md)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Eight Queens Problem](/eight_queens/eight_queens.md)
+[Sweep Heuristic for the Vehicle Routing Problem](/Sweep/VRP_Sweep.md)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -16,7 +12,12 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
+[Eight Queens Problem](/eight_queens/eight_queens.md)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
+---
+[TSP](/nn_tsp/nn_tsp.md)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
