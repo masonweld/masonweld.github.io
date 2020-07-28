@@ -161,7 +161,7 @@ GRID = np.array([[8, 7, 6, 9, 0, 0, 0, 0, 0],
                  [0, 0, 0, 0, 0, 1, 0, 0, 4]])
 ```
 
-## Step 1.2: Build Gurobi Binary Integer Program
+## Step 2.2: Build Gurobi Binary Integer Program
 
 
 ```python
@@ -204,7 +204,7 @@ def build_sudoku_model_gurobi(grid):
     return m, v, GRID
 ```
 
-## Step 1.3: Function for Printing Solution
+## Step 2.3: Function for Printing Solution
 
 
 ```python
@@ -222,7 +222,7 @@ def print_solution(m, GRID):
     print(GRID)
 ```
 
-## Step 1.4: Run, Solve, and Print Solution 
+## Step 2.4: Run, Solve, and Print Solution 
 
 
 ```python
