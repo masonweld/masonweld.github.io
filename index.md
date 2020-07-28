@@ -14,7 +14,6 @@
 
 ---
 [Nearest Neighbor](/nn_tsp/nn_tsp.md)
-<!--<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
