@@ -113,20 +113,31 @@ We have 200 hours of labor and 250 units of material available. We do not want t
 We can formulate this as a linear programming model.  
 
 Decision Variables:
+
 Let x_i = the number of furnature produced at plant i.
 
 Constraints:
+
 We have 200 hours of labor
+
 2*x_1 + 3*x_2 <= 200
+
 We have 250 units of material available:
+
 2*x_1 + 4*x_2 <= 250
+
 We are allowed to produce 900 units of pollution
+
 13*x_1 + 9*x_2 <= 900
+
 We cannot produce a negative amount of furniture
+
 x_i >= 0 for i = 1,2
 
 Objective Function:
+
 Maximize the number of furniture produced:
+
 x_1 + x_2 
 
 
