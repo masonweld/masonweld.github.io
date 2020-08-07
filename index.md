@@ -4,6 +4,10 @@
 
 ### Optimization Algorithms 
 
+[Implementing the Simplex Algorithm](/Simplex/simplex.md)
+
+---
+
 [Sweep Heuristic for the Vehicle Routing Problem](/Sweep/VRP_Sweep.md)
 
 ---
