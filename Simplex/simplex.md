@@ -105,6 +105,7 @@ Now we have everything we need to solve a linear program using the Simplex algor
 "Suppose you have 2 production plants for making furniture. Due to specifications, each plant's operations are different in terms of labor needed, materials, and pollution produced per car.  These are summarized for each plant for one unit of furniture produced:
 
 Plant 1: 2 labor, 2 materials, 13 pollution
+
 Plant 2: 3 labor, 4 materials, 9 pollution
 
 We have 200 hours of labor and 250 units of material available. We do not want to produce more than 900 units of pollution.  The goal is to maximize the total amount of furnature produced between all the plants."
