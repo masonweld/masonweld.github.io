@@ -21,6 +21,9 @@
 [Eight Queens Problem](/eight_queens/eight_queens.md)
 
 ---
+[Change Problem](/Change_Problem/change.md)
+
+---
 [Nearest Neighbor](/nn_tsp/nn_tsp.md)
 
 ---
