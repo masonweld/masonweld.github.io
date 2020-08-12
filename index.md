@@ -8,6 +8,10 @@
 
 ---
 
+[Solving Cutting Stock Problem with Column Generation](/Column_Generation/cutting_stock.md)
+
+---
+
 [Sweep Heuristic for the Vehicle Routing Problem](/Sweep/VRP_Sweep.md)
 
 ---
