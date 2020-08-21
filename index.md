@@ -27,7 +27,3 @@
 [Nearest Neighbor](/nn_tsp/nn_tsp.md)
 
 ---
-
-### Big Data
-
-[Chess Games Database](/Chess_Games/chess_games.md)
