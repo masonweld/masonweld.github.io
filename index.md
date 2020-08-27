@@ -27,3 +27,9 @@
 [Nearest Neighbor](/nn_tsp/nn_tsp.md)
 
 ---
+
+## Statistical Models
+
+[Report: Markov Chains and its Applications to Golf](/Markov_Chain_Golf)
+
+---
