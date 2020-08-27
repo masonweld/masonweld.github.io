@@ -35,3 +35,5 @@
 ---
 
 ### Machine Learning
+
+[Clothing Image Classification](/Image_ML/image_ml.ipynb)
