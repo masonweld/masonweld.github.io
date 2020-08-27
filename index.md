@@ -30,6 +30,6 @@
 
 ### Statistical Models
 
-[Report: Markov Chains and its Applications to Golf](/Markov_Chain_Golf)
+[Report: Markov Chains and its Applications to Golf](/Markov_Chain_Golf/Markov Chains and its Applications to Golf.pdf)
 
 ---
