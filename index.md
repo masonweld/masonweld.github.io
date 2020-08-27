@@ -36,4 +36,4 @@
 
 ### Machine Learning
 
-[Clothing Image Classification](/Image_ML/image_ml.md)
+[Clothing Image Classification](/Image_ML/image_ml1.md)
