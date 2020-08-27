@@ -2,7 +2,7 @@
 
 ---
 
-### Operations Research Optimization Algorithms 
+### Optimization Algorithms 
 
 [Implementing the Simplex Algorithm](/Simplex/simplex.md)
 
