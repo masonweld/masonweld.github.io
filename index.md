@@ -32,6 +32,8 @@
 
 [Outputting User Performance Stats from LiChess Database](/Chess_Games/chess_games.md)
 
+---
+
 ### Statistical Models
 
 [Report: Markov Chains and its Applications to Golf](/Markov_Chain_Golf/Markov Chains and its Applications to Golf.pdf)
