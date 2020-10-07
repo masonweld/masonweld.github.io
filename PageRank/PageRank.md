@@ -96,15 +96,13 @@ SELECT TOP(10) c.id, n.paperTitle ,c.rank
 FROM CurrentRank c INNER JOIN nodes n ON c.id = n.paperID
 ORDER BY rank DESC;
 
--- print sum of all ranks to check if = 1
-SELECT SUM(rank) AS SumOfRanks from CurrentRank;
-
-END;
 GO
 
 ~~~~
 
 # Result
+
+The 10 pages with the highest Page Rank Probability:
 
 | id      | paperTitle                                                          | rank                |
 |---------|---------------------------------------------------------------------|---------------------|
