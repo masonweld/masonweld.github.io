@@ -93,4 +93,3 @@ SELECT SUM(rank) AS SumOfRanks from CurrentRank;
 
 END;
 GO
-~~~~sql
