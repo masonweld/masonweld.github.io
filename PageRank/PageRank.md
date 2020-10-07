@@ -101,3 +101,28 @@ SELECT SUM(rank) AS SumOfRanks from CurrentRank;
 
 END;
 GO
+
+~~~~
+
+# Result
+
+id          paperTitle                                                                                           rank
+----------- ---------------------------------------------------------------------------------------------------- ----------------------
+9504090     Massless Black Holes and Conifolds in String Theory                                                  0.0147242485713874
+9510135     Bound States Of Strings And p-Branes                                                                 0.0144463053478479
+9711200     The Large N Limit of Superconformal Field Theories and Supergravity                                  0.0136475828170161
+9802150     Anti De Sitter Space And Holography                                                                  0.00969790725741225
+208020      Open strings and their symmetry groups                                                               0.00862989546971674
+9602065     D--branes and Spinning Black Holes                                                                   0.00771630107059198
+9305185     Duality Symmetries of 4D Heterotic Strings                                                           0.00754976747481236
+9611050     TASI Lectures on D-Branes                                                                            0.00712937876530993
+9501030     Strong/Weak Coupling Duality from the Dual String                                                    0.00581545481823665
+9602135     Entropy and Temperature of Black 3-Branes                                                            0.00541617199831115
+
+(10 rows affected)
+
+SumOfRanks
+----------------------
+0.999999999102386
+
+(1 row affected)
