@@ -1,3 +1,4 @@
+~~~~sql
 -- drop/create helper tables
 DROP TABLE IF EXISTS NumOut;
 DROP TABLE IF EXISTS CurrentRank;
@@ -92,3 +93,4 @@ SELECT SUM(rank) AS SumOfRanks from CurrentRank;
 
 END;
 GO
+~~~~sql
