@@ -34,6 +34,12 @@
 
 ---
 
+### SQL Data Querying and Algorithms
+
+[Google's Page Rank Algorithm in T SQL](/PageRank/PageRank.md)
+
+---
+
 ### Statistical Models
 
 [Report: Markov Chains and its Applications to Golf](/Markov_Chain_Golf/Markov Chains and its Applications to Golf.pdf)
