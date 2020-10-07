@@ -1,3 +1,9 @@
+# Google's Page Rank Algorithm in T SQL
+
+We are given the following schemea:
+nodes(paperID, paperTitle)
+edges(paperID, citedPaperID)
+
 ~~~~sql
 -- drop/create helper tables
 DROP TABLE IF EXISTS NumOut;
