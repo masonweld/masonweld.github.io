@@ -50,4 +50,4 @@
 
 [Clothing Image Classification](/Image_ML/image_ml.md)
 
-[Clothes]!(/images/output_17_0)
+![](/images/output_17_0)
