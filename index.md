@@ -22,6 +22,8 @@
 ---
 [Eight Queens Problem](/eight_queens/eight_queens.md)
 
+![](images/queens.png)
+
 ---
 [Change Problem](/Change_Problem/change.md)
 
