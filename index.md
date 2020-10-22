@@ -17,7 +17,7 @@
 ---
 [Sudoku Solver](/Sudoku_Solver/Sudoku_Solver.md)
 
-<img src="grid.png" alt="grid" width="200"/>
+![](images/grid.png)
 
 ---
 [Eight Queens Problem](/eight_queens/eight_queens.md)
