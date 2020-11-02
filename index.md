@@ -32,7 +32,7 @@
 
 ---
 
-### Data Mining Projects
+### Data Projects
 
 [Outputting User Performance Stats from LiChess Database](/Chess_Games/chess_games.md)
 
