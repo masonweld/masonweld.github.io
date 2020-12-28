@@ -46,6 +46,10 @@
 
 ### Statistical Models
 
+[A Simple Monte Carlo Integration Model](/MonteCarlo/MonteCarloIntegration.md)
+
+![](images/output_0_16_0.png)
+
 [Report: Markov Chains and its Applications to Golf](/Markov_Chain_Golf/Markov Chains and its Applications to Golf.pdf)
 
 ![](images/markov.png)
