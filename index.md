@@ -54,7 +54,7 @@
 
 ![](images/markov.png)
 
-[Test](/TestHTML/index.html)
+[Test](/TestHTML)
 
 ---
 
