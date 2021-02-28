@@ -48,8 +48,6 @@
 
 [A Simple Monte Carlo Integration Model](/MonteCarlo/MonteCarloIntegration.md)
 
-<a href="https://masonweld.github.io/MonteCarlo/MonteCarloIntegration.md">A Simple Monte Carlo Integration Simulation Model</a>
-
 ![](images/output_16_0.png)
 
 [Report: Markov Chains and its Applications to Golf](/Markov_Chain_Golf/Markov Chains and its Applications to Golf.pdf)
