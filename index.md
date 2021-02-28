@@ -54,8 +54,7 @@
 
 ![](images/markov.png)
 
-[Test](/TestHTML)
-
+<a href="https://masonweld.github.io/TestHTML/test.html">link text</a>
 ---
 
 ### Machine Learning
