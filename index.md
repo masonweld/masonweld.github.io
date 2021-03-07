@@ -2,11 +2,11 @@
 
 ---
 
-### The Elements of Statistical Learning Models
-
-[Chapter 2: Supervised Learning](/ElementsOfStatisticalLearning/Chapter2/ElementsOfStatisticalLearning2.html)
+### Implementation of Models in ***The Elements of Statistical Learning***
 
 <img src="images/EOSL.png" alt="drawing" width="200"/>
+
+[Chapter 2: Supervised Learning](/ElementsOfStatisticalLearning/Chapter2/ElementsOfStatisticalLearning2.html)
 
 ---
 
