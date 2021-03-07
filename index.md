@@ -2,6 +2,14 @@
 
 ---
 
+### The Elements of Statistical Learning Models
+
+[Chapter 2: Supervised Learning](/ElementsOfStatisticalLearning/Chapter2/ElementsOfStatisticalLearning2.html)
+
+![](images/EOSL.png)
+
+---
+
 ### Optimization Algorithms 
 
 [Implementing the Simplex Algorithm](/Simplex/simplex.md)
@@ -29,14 +37,6 @@
 
 ---
 [Nearest Neighbor](/nn_tsp/nn_tsp.md)
-
----
-
-### The Elements of Statistical Learning Models
-
-[Chapter 2: Supervised Learning](/ElementsOfStatisticalLearning/Chapter2/ElementsOfStatisticalLearning2.html)
-
-![](images/EOSL.png)
 
 ---
 
