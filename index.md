@@ -6,7 +6,6 @@
 
 [Chapter 2: Supervised Learning](/ElementsOfStatisticalLearning/Chapter2/ElementsOfStatisticalLearning2.html)
 
-![](images/EOSL.png =100x20)
 <img src="images/EOSL.png" alt="drawing" width="200"/>
 
 ---
