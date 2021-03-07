@@ -64,7 +64,6 @@
 
 <img src="images/markov.png" alt="drawing" width="250"/>
 
-<a href="https://masonweld.github.io/testHTML/index.html">test</a>
 ---
 
 ### Machine Learning
