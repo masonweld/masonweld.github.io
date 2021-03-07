@@ -31,6 +31,7 @@
 [Eight Queens Problem](/eight_queens/eight_queens.md)
 
 ![](images/queens.png)
+<img src="images/queens.png" alt="drawing" width="200"/>
 
 ---
 [Change Problem](/Change_Problem/change.md)
