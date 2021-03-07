@@ -25,12 +25,11 @@
 ---
 [Sudoku Solver](/Sudoku_Solver/Sudoku_Solver.md)
 
-![](images/grid.png)
+<img src="images/grid.png" alt="drawing" width="200"/>
 
 ---
 [Eight Queens Problem](/eight_queens/eight_queens.md)
 
-![](images/queens.png)
 <img src="images/queens.png" alt="drawing" width="200"/>
 
 ---
