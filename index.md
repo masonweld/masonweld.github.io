@@ -32,6 +32,14 @@
 
 ---
 
+### The Elements of Statistical Learning Models
+
+[Chapter 2: Supervised Learning](/ElementsOfStatisticalLearning/Chapter2/ElementsOfStatisticalLearning2.html)
+
+![](images/EOSL.png)
+
+---
+
 ### Data Projects
 
 [Outputting User Performance Stats from LiChess Database](/Chess_Games/chess_games.md)
