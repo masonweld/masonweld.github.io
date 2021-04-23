@@ -56,7 +56,7 @@
 
 [A Simple Monte Carlo Integration Model](/MonteCarlo/MonteCarloIntegration.md)
 
-<a href="https://masonweld.github.io/MonteCarlo/index.html">test</a>
+<a href="https://masonweld.github.io/MonteCarlo/index.html">A Simple Monte Carlo Integration Model</a>
 
 <img src="images/output_16_0.png" alt="drawing" width="250"/>
 
