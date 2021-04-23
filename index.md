@@ -38,13 +38,6 @@
 ---
 [Nearest Neighbor](/nn_tsp/nn_tsp.md)
 
----
-
-### Data Projects
-
-[Outputting User Performance Stats from LiChess Database](/Chess_Games/chess_games.md)
-
----
 
 ### SQL Data Querying and Algorithms
 
