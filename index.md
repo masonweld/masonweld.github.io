@@ -12,6 +12,10 @@
 
 ### Optimization Algorithms 
 
+<a href="https://masonweld.github.io/optimization/index.html">Optimization Algorithms</a>
+
+---
+
 [Implementing the Simplex Algorithm](/Simplex/simplex.md)
 
 ---
