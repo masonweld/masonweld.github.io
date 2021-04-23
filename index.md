@@ -14,6 +14,9 @@
 
 <a href="https://masonweld.github.io/optimization/index.html">Optimization Models</a>
 
+
+[Optimization Models](/optimization/index.html)
+
 ---
 
 [Implementing the Simplex Algorithm](/Simplex/simplex.md)
