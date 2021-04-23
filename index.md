@@ -12,7 +12,7 @@
 
 ### Optimization Algorithms 
 
-<a href="https://masonweld.github.io/optimization/index.html">Optimization Algorithms</a>
+<a href="https://masonweld.github.io/optimization/index.html">Optimization Models</a>
 
 ---
 
