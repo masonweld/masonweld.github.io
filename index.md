@@ -8,6 +8,9 @@
 
 [Chapter 2: Supervised Learning](/ElementsOfStatisticalLearning/Chapter2/ElementsOfStatisticalLearning2.html)
 
+
+[Chapter 8: Model Inference and Averaging](/ElementsOfStatisticalLearning/Chapter8/Algorithm 8_1.html)
+
 ---
 
 [Optimization Models](/optimization/index.html)
