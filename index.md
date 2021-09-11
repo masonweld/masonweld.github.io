@@ -9,7 +9,7 @@
 [Chapter 2: Supervised Learning](/ElementsOfStatisticalLearning/Chapter2/ElementsOfStatisticalLearning2.html)
 
 
-[Chapter 8: Model Inference and Averaging](/ElementsOfStatisticalLearning/Chapter8/EOSL_8.html)
+[Chapter 8: Model Inference and Averaging](/ElementsOfStatisticalLearning/Chapter8/EOSL_Ch8.html)
 
 ---
 
