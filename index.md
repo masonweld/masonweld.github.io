@@ -12,6 +12,7 @@
 [Chapter 8: Model Inference and Averaging](/ElementsOfStatisticalLearning/Chapter8/EOSL_Ch8.html)
 
 ---
+### Optimization Models
 
 [Optimization Models](/optimization/index.html)
 
