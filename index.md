@@ -14,7 +14,7 @@
 ---
 ### Optimization Models
 
-[Travel Time Optimizer with Google Maps API] (/tsp_google/index.html)
+[Travel Time Optimizer with Google Maps API](/tsp_google/index.html)
 
 [Optimization Models](/optimization/index.html)
 
