@@ -42,4 +42,4 @@
 
 [Clothing Image Classification](/Image_ML/image_ml.md)
 
-<img src="/images/output_17_0.png" alt="drawing" width="250"/>
+<img src="/images/output_17_0.png" alt="drawing" width="250"/> 
