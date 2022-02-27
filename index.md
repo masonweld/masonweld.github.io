@@ -18,7 +18,7 @@
 
 ### SQL Data Querying and Algorithms
 
-[Google's Page Rank Algorithm in T SQL](/PageRank/PageRank.md)
+[Google's Page Rank Algorithm in T-SQL](/PageRank/PageRank.md)
 
 ---
 
