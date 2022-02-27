@@ -29,8 +29,3 @@
 
 [Markov Chains and its Applications to Golf](/Markov_Chain_Golf/Markov Chains and its Applications to Golf.pdf)
 
----
-
-### Machine Learning
-
-[Clothing Image Classification](/Image_ML/image_ml.md)
