@@ -33,3 +33,5 @@
 ### Algorithms
 
 <a href="/SafeCrackerPuzzle/PuzzleSolve.html">Solving the Safe Cracker Puzzle</a>
+
+[Solving the Safe Cracker Puzzle](/SafeCrackerPuzzle/PuzzleSolve.ipynb)
