@@ -16,7 +16,7 @@
 
 ---
 
-### SQL Data Querying and Algorithms
+### SQL
 
 [Google's Page Rank Algorithm in T-SQL](/PageRank/PageRank.md)
 
@@ -28,3 +28,8 @@
 
 [Markov Chains and its Applications to Golf](/Markov_Chain_Golf/Markov Chains and its Applications to Golf.pdf)
 
+---
+
+### Algorithms
+
+[Solving Rotating Math Puzzle](/SafeCrackerPuzzle/PuzzleSolve.html)
