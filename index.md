@@ -32,4 +32,4 @@
 
 ### Algorithms
 
-[Solving Rotating Math Puzzle](/SafeCrackerPuzzle/PuzzleSolve.md)
+<a href="/SafeCrackerPuzzle/PuzzleSolve.html">Solving the Safe Cracker Puzzle</a>
