@@ -14,6 +14,8 @@
 
 [Chapter 8: Model Inference and Averaging](/ElementsOfStatisticalLearning/Chapter8/EOSL_Ch8.html)
 
+[Chapter 14: Unsupervised Learning](/KMeans/KMeansClustering.md)
+
 ---
 
 ### SQL
