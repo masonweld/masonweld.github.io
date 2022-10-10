@@ -4,7 +4,7 @@
 
 [Travel Time Optimizer with Google Maps API](/tsp_google/index.html)
 
-[Collection of Optimization Models](/optimization/index.html)
+[Modified Sudoku Binary Integer Programming Solver](/GridOptimize/GridOptimize.html)
 
 ---
 
