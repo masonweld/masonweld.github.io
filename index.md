@@ -20,12 +20,6 @@
 
 ---
 
-### SQL
-
-[Google's Page Rank Algorithm in T-SQL](/PageRank/PageRank.md)
-
----
-
 ### Statistical Models
 
 <a href="https://masonweld.github.io/MonteCarlo/index.html">A Simple Monte Carlo Integration Model</a>
