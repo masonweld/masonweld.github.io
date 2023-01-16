@@ -10,6 +10,12 @@
 
 ---
 
+### Quantitative Finance
+
+[Numerical and Statistical Methods for Approximating Financial Option Values](/BlackScholes/Numerical_Methods_BlackScholes.html)
+
+---
+
 ### Implementation of Algorithms in ***The Elements of Statistical Learning***
 
 [Chapter 2: Supervised Learning](/ElementsOfStatisticalLearning/Chapter2/ElementsOfStatisticalLearning2.html)
