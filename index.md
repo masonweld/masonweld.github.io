@@ -30,8 +30,6 @@
 
 <a href="https://masonweld.github.io/MonteCarlo/index.html">A Simple Monte Carlo Integration Model</a>
 
-[Markov Chains and its Applications to Golf](/Markov_Chain_Golf/Markov Chains and its Applications to Golf.pdf)
-
 ---
 
 ### Algorithms
