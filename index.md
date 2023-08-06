@@ -14,6 +14,8 @@
 
 [Numerical and Statistical Methods for Approximating Financial Option Values](/BlackScholes/Numerical_Methods_BlackScholes.html)
 
+[Delta Hedge Portfolio Simulation and Errors by Delta Position Update Frequency](/DeltaHedgeSimulation/DeltaHedgeSimulation.html)
+
 ---
 
 ### Implementation of Algorithms in ***The Elements of Statistical Learning***
