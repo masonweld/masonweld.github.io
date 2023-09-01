@@ -16,7 +16,7 @@
 
 [Delta Hedge Portfolio Simulation and Errors by Delta Position Update Frequency](/DeltaHedgeSimulation/DeltaHedgeSimulation.html)
 
-[Treasury Yields (Test)](/Treasury/test.html)
+[Treasury Yields ](/Treasury/auto_gen_treasury.html)
 
 ---
 
