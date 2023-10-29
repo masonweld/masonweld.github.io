@@ -16,9 +16,9 @@
 
 [Delta Hedge Portfolio Simulation and Errors by Delta Position Update Frequency](/DeltaHedgeSimulation/DeltaHedgeSimulation.html)
 
-[Treasury Yields](/Treasury/auto_gen_treasury.html)
+[Plot: Treasury Yields](/Treasury/auto_gen_treasury.html)
 
-[International Holdings of US Treasuries](/Treasury/auto_gen_foreign_holdings.html)
+[Plot: International Holdings of US Treasuries](/Treasury/auto_gen_foreign_holdings.html)
 
 ---
 
