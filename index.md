@@ -20,6 +20,8 @@
 
 [Plot: International Holdings of US Treasuries](/Treasury/auto_gen_foreign_holdings.html)
 
+[Test](/Treasury/fin_plots/plots.html)
+
 ---
 
 ### Implementation of Algorithms in ***The Elements of Statistical Learning***
