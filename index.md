@@ -16,11 +16,7 @@
 
 [Delta Hedge Portfolio Simulation and Errors by Delta Position Update Frequency](/DeltaHedgeSimulation/DeltaHedgeSimulation.html)
 
-[Plot: Treasury Yields](/Treasury/auto_gen_treasury.html)
-
-[Plot: International Holdings of US Treasuries](/Treasury/auto_gen_foreign_holdings.html)
-
-[Test](/Treasury/fin_plots/plots.html)
+[Auto-Updating Plots of Treasury Data](/Treasury/fin_plots/plots.html)
 
 ---
 
