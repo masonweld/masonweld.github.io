@@ -4,6 +4,8 @@
 
 [Travel Time Optimizer with Google Maps API](/tsp_google/index.html)
 
+[LP Duality to Measure Sensitivity of a Constrained Renewable Generation System](/Wind_Solar_Storage/Wind_Solar_Storage.html)
+
 [Genetic Algorithm for Optimization Problems](/GeneticAlgorithm/GeneticAlgorithm.html)
 
 [Modified Sudoku Binary Integer Programming Solver](/GridOptimize/GridOptimize.html)
