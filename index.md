@@ -2,11 +2,11 @@
 
 ### Optimization Models
 
-[Travel Time Optimizer with Google Maps API](/tsp_google/index.html)
-
 [Using LP Duality to Measure Sensitivity of a Constrained Renewable Generation System](/Wind_Solar_Storage/Wind_Solar_Storage-Scroll2.html)
 
 [Genetic Algorithm for Optimization Problems](/GeneticAlgorithm/GeneticAlgorithm.html)
+
+[Travel Time Optimizer with Google Maps API](/tsp_google/index.html)
 
 [Modified Sudoku Binary Integer Programming Solver](/GridOptimize/GridOptimize.html)
 
