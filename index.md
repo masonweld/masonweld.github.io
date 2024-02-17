@@ -10,6 +10,8 @@
 
 [Modified Sudoku Binary Integer Programming Solver](/GridOptimize/GridOptimize.html)
 
+[Revised Simplex Method in Python](/Revised_Simplex/Revised_Simplex_Method.html)
+
 ---
 
 ### Quantitative Finance
