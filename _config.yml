@@ -1,7 +1,6 @@
 title: Mason Weld # your name (or website title) here
 # logo: "/images/ztest.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Welcome to my page!  This page contains some of my personal projects relating to data science and operations research.  My other skills, interests, and work experience can be found on my LinkedIn below.
 
   <br><br>
   <a href="https://www.linkedin.com/in/mason-weld-5b1817157/">View My LinkedIn Profile</a> 
