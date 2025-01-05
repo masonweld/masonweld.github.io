@@ -6,6 +6,8 @@
 
 [Genetic Algorithm for Optimization Problems](/GeneticAlgorithm/GeneticAlgorithm.html)
 
+[Reproducing Numerical Results in Python from "Some New Results on the Maximum Growth Factor in Gaussian Elimination" by Alan Edelman and John Urschel](/Gaussian_Elimination/Gaussian_Elimination.html)
+
 [Travel Time Optimizer with Google Maps API](/tsp_google/index.html)
 
 [Modified Sudoku Binary Integer Programming Solver](/GridOptimize/GridOptimize.html)
