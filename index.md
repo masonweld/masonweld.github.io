@@ -40,6 +40,8 @@
 
 <a href="https://masonweld.github.io/MonteCarlo/index.html">A Simple Monte Carlo Integration Model</a>
 
+[Simulating the James-Stein Estimator](/JamesStein/JSE.html)
+
 ---
 
 ### Algorithms
